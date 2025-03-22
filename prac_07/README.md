@@ -1,5 +1,4 @@
-To avoid plagiarism, here's a reworded version of the text with the same meaning and structure, but presented differently:
-
+ 
 ---
 
 **CP1404 Practical Exercises - Programming II**
